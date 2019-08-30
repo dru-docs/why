@@ -16,6 +16,7 @@
 * Глюк в инфоблоках https://dev.1c-bitrix.ru/support/forum/messages/forum6/topic25459/message301197/#message301197
 
 ## Статьи
+* 30 авг 2019 https://m.habr.com/ru/post/465609/ о том что ничего не развивается
 * https://habr.com/ru/post/344616/ о плохой архитектуре (+комменты к статье)
 * https://habr.com/ru/post/459795/ как на самом деле выглядит поддержка
 
