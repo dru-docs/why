@@ -20,6 +20,7 @@
 * https://habr.com/ru/post/465559/ Как мы лечили сайты на Битриксе от вируса-майнера + инструкция
 * https://habr.com/ru/post/344616/ о плохой архитектуре (+комменты к статье)
 * https://habr.com/ru/post/459795/ как на самом деле выглядит поддержка
+* https://habr.com/ru/post/282333/ Исповедь Битрикс хейтера
 
 ## Хыхы
 * https://www.facebook.com/photo.php?fbid=615120855680141&set=a.182440258948205&type=3&theater
